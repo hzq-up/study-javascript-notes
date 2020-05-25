@@ -36,3 +36,5 @@
 // s = "hello, hzq_up";
 // console.log(s[0])   // => "h"
 // console.log(s[s.length-1])  // => "p"
+
+//字符串的模式匹配方法 （待研究）
